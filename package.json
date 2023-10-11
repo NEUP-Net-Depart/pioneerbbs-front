@@ -9,7 +9,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.3.4"
+    "axios": "^1.5.1",
+    "pinia": "^2.1.6",
+    "pinia-plugin-persistedstate": "^3.2.0",
+    "vue": "^3.3.4",
+    "vuetify": "^3.3.21"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.2.3",
